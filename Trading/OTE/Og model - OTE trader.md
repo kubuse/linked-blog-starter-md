@@ -8,7 +8,7 @@ Original model of OTE trader
 - Use MMXM
 - Determine IBDR
 - Use Premium/Discount
-- Determine **Intrenal Range POI**
+- Determine **Internal Range POI**
 - Wait for liqudity to get engineered before the POI
 - Use Timeframe Aligment for entry 
 
