@@ -51,7 +51,7 @@ After forming previous dailylow that went into PD array and made DOL the next da
 
 We want to use opposite pd arrays but in this example there aren't any. So we aim for previous highs.
 
-Stoploss below ITL or ITH
+Stoploss below [[Highs and Lows|ITL]] or [[Highs and Lows|ITH]]
 
 
 

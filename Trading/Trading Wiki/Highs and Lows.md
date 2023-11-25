@@ -15,4 +15,14 @@ Highs and lows can be a very good draw on liqudity on every time frame. If we co
 - Short term low
 
 
+## Long Term High/Low
+- Is a high time frame [[POI]]
+- Is a place where smart money reversal happend
+- Should have two [[Highs and Lows|ITH]] from both sides
 
+## Intermediate Term High/Low
+- A swing that takes out a [[STH]]
+- Can be used as a target/ [[POI]]
+
+
+## Short Term High/Low
