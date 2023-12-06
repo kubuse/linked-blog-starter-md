@@ -8,4 +8,12 @@ A fair value gap is a place where the price rebalances the market. In the exampl
 
 # [[External and Internal Liquidity|Internal Range Liqudity]]
 - Fair value gaps are also called [[External and Internal Liquidity|internal range liqudity]] a place where the price wants to into with the use of [[Interbank dealing range|range]]
-- 
+
+# Bisi
+
+^b640b9
+
+- Is Buyside Imbalance Sellside Inefficiency
+
+# Sibi
+- Is Sellside Imbalance Buyside Inefficiency
